@@ -1,3 +1,9 @@
+### `IMPORTANT`
+# `pour la partie blog`
+
+### `npm run server`
+Lancer le serveur local
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
